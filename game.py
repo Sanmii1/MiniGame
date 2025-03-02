@@ -75,17 +75,10 @@ class App :
                 RANDOM_RESET = False
                 RANDOM_X_METEOR.clear()
                 RANDOM_Y_METEOR.clear()
-                # HEIGHT_METEOR_ONE.clear()
-                # HEIGHT_METEOR_TWO.clear()
-                # HEIGHT_METEOR_THREE.clear()
+
                 for i in range (0,3) :
                     RANDOM_Y_METEOR.append(random.randint(20,160))
                     RANDOM_X_METEOR.append(random.randint(220,240))
-
-                # for i in range (0,7) :
-                #     HEIGHT_METEOR_ONE.append(RANDOM_Y_METEOR[0] - i)
-                #     HEIGHT_METEOR_TWO.append(RANDOM_Y_METEOR[1] - i)
-                #     HEIGHT_METEOR_THREE.append(RANDOM_Y_METEOR[2] - i)
 
             if SHOT_STATE == "shot" :
                 X_SHOT += 4
