@@ -11,4 +11,4 @@ JP : このリポジトリは、私の単純なゲーム プロジェクト用�
 
 
 ### rules
-1.Turn Off You Defender (windows Defender and e.g)
+1.Turn Off You Defender (windows Defender and etc)
