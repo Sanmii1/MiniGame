@@ -8,3 +8,7 @@ JP : このリポジトリは、私の単純なゲーム プロジェクト用�
 
 ### Languange :  
 1.Python
+
+
+### rules
+1.Turn Off You Defender (windows Defender and e.g)
