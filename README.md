@@ -1,4 +1,4 @@
-EN : This Repository Just For Making Mini Game \n
+EN : This Repository Just For Making Mini Game /n
 JP : このリポジトリは、私の単純なゲーム プロジェクト用に作成されました
 
 ### Libary in Python:
